@@ -47,3 +47,5 @@ scripts.js
 2. O usuário seleciona uma moeda no menu suspenso.
 3. O usuário clica no botão "Converter em reais".
 4. A taxa de câmbio e o valor convertido são exibidos no rodapé da página.
+
+![exemplo](https://github.com/user-attachments/assets/c3276462-f83e-4061-84e1-6816e01335b8)
