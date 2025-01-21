@@ -1,0 +1,1 @@
+Este projeto é uma aplicação web simples de conversão de moedas. Ele permite que os usuários convertam valores de diferentes moedas (Dólar Americano, Euro e Libra Esterlina) para Reais Brasileiros. A interface é composta por um formulário onde o usuário pode inserir o valor a ser convertido e selecionar a moeda desejada.
